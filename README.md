@@ -33,3 +33,12 @@ Monitor children's activities and progress
 
 ## 🧠 Progress Tracking System
 
+## 📦 Tech Stack
+Backend Framework: ( Django )
+
+Database: (sqlite/ PostgreSQL)
+
+Authentication: JWT / OAuth
+
+APIs: RESTful endpoints for all interactions
+
