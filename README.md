@@ -23,7 +23,7 @@ When a child enroll in a course he/she will be able to upload a profile picture,
 
 Monitor children's activities and progress
 
-👨‍💼 Admin Panel:
+## 👨‍💼 Admin Panel:
 
 *** Manage users (students, teachers, parents)
 
