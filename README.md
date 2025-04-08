@@ -4,7 +4,9 @@ An educational technology backend system focused on providing children (ages 3â€
 ## Features
 ### Students roles
 *** Enroll in Courses
+
 *** Take quizes
+
 *** See Scores/track Progress
 
 When a child enroll in a course he/she will be able to upload a profile picture, data of the courses the child is taking will be tracked in his/her acount.The child will be able to see his/her portfolio that will contain his/her archievment and teachers comments.
